@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">MyFirstApp1</string>
+    <string name="welcome_message">Hi, please provide some info about you!</string>
+    <string name="warning_message">Need choose gender and confirm checkbox!</string>
+    <string name="gender_man">Man</string>
+    <string name="gender_woman">Woman</string>
+    <string name="accept_button">ACCEPT</string>
+    <string name="name">Name</string>
+    <string name="agree">I confirm this information</string>
+    <string name="switch_text">Change theme</string>
+    <string name="hello_mr">\Nice to meet you Mr \</string>
+    <string name="hello_ms">\Nice to meet you Ms \</string>
+    <string name="on_message">Lights On!</string>
+    <string name="off_message">Lights Off!</string>
+    <string name="label">Label</string>
+    <string name="label_name">Name</string>
+    <string name="label_phone">Phone number</string>
+    <string name="label_email">Email</string>
+    <string name="label_address">Address</string>
+    <string name="label_password">Password</string>
+
+
+
 </resources>
